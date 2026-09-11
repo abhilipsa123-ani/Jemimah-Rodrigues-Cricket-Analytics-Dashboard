@@ -13,7 +13,7 @@ The main objective of this project is to transform cricket statistics into meani
 
 ## Dashboard Preview
 
-![Jemimah Rodrigues Cricket Analytics Dashboard](Dashboard_Preview.png.png)
+![Jemimah Rodrigues Cricket Analytics Dashboard](Dashboard_Preview.png)
 
 ---
 
@@ -145,7 +145,7 @@ These filters make the dashboard interactive and allow users to explore specific
 | `Jemimah_Franchise_Career.xlsx` | Franchise cricket dataset |
 | `Jemimah_Profile.xlsx` | Player profile dataset |
 | `Jemimah_Recent_2026.xlsx` | Recent 2026 performance dataset |
-| `Dashboard_Preview.png.png` | Dashboard preview image |
+| `Dashboard_Preview.png` | Dashboard preview image |
 
 ---
 
@@ -170,8 +170,7 @@ This project demonstrates practical knowledge of:
 
 **Abhilipsa Anindita**
 
-B.Tech – Computer Science & Engineering  
-Aspiring Data Analyst
+B.Tech – Computer Science & Engineering
 
 ---
 
